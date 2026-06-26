@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # --- Configuration ---
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8822264854:AAG8isj4DVBIzSx-YpmwD6o3Z6CNUqDTKOQ")
 
 # Conversation States
 # Profile/Settings Setup
